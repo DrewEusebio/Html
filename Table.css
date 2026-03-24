@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(to left, Black, rosybrown);
+}
+table, th, td {
+  border:1px solid black;
+padding: 25px;
+background-color: beige;
+margin-left: 550px;
+margin-top: 220px;
+}
+.tp{
+  color: aquamarine;
+  background-color: darkolivegreen;
+}
+.dp{
+  background-color: blueviolet;
+  color: aqua;
+}
+.Bp{
+  color: aquamarine;
+  background-color: burlywood;
+}
+h1{
+  text-align: center;
+  color: cyan;
+}
